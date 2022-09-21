@@ -10,3 +10,12 @@ body{
     background-image: url('../images/hatter.png');
 }
 
+#menu{
+    background-color: white;
+}
+
+.navbar-brand{
+    color: orange;
+    font-size: small;
+    text-align: center;
+}
